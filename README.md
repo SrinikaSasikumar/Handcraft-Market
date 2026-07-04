@@ -1,0 +1,1 @@
+ Ancient Hand & Craft Market is an e-commerce platform designed to empower tribal communities by providing them with a digital space to showcase, sell, and promote their handcrafted goods using PHP amd MySQL.
